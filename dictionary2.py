@@ -1,6 +1,6 @@
 #!/bin/usr/env python3
 student_profile = {
-    "names": ["Alice", "Bob", "Charlie", "David", "Eve"],
+    "names": ["Aline", "Brian", "Ephrem", "David", "Eve"],
     "grades": [8, 9, 7, 8, 2]
 }
 # Data extraction and display
